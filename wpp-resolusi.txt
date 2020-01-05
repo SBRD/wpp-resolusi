@@ -2,3 +2,4 @@ WPP-RESOLUSI
 -FOKUS BELAJAR WEB PROGRAMING
 -MEMBUAT WEB SEDERHANA
 -onlinekan web ke layanan hosting
+- memperdalam keamanan jaringan  
